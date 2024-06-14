@@ -35,6 +35,3 @@ print(result)
 
 
 
-result = calculate_structure_sum(data_structure)
-print(result)
-
